@@ -8,7 +8,7 @@
 }
 
 body {
-     background-image:url("real.jpg");
+     background-image:url("back2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -68,6 +68,8 @@ header nav ul li a {
      color: white;
      margin-top: 20px;
      margin-bottom: 20px;
+     padding-left: 20px;
+     padding-right: 20px;
 
 }
 .item {

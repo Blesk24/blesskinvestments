@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+   
+    
+}
+body{
+    background-image:url("back.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color:white;
+    font-size: large;
+    
+    
+}
+h3{
+    margin-top: 35px;
+    margin-bottom: 10px;
+}

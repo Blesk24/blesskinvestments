@@ -38,6 +38,11 @@ body {
     font-weight: bold;
     margin-bottom: 10px;
 }
+.form h3{
+    color:black;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
 .input-group {
     position: relative;
     margin-bottom: 20px;

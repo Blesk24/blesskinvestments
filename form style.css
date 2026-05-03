@@ -37,11 +37,13 @@ body {
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
     margin-bottom: 10px;
+    text-decoration: underline;
 }
 .form h3{
     color:black;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
 }
 .input-group {
     position: relative;

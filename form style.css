@@ -45,6 +45,7 @@ body {
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
     text-decoration: underline;
+    text-shadow: #0c0303;
 }
 .input-group {
     position: relative;
